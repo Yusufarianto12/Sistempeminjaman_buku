@@ -20,3 +20,4 @@ Sebuah aplikasi web sederhana untuk mengelola data peminjaman dan pengembalian b
 1. Clone repository ini:
    ```bash
    git clone git@github.com:Yusufarianto12/sistempeminjaman_buku.git
+2. kemudian import database "perpustakaan.sql" melalui phpmyadmin
